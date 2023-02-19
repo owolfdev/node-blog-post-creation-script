@@ -1,0 +1,15 @@
+{
+  "name": "blog-post-creation-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "OWolf",
+  "license": "MIT",
+  "dependencies": {
+    "smmry": "^1.0.2"
+  }
+}
